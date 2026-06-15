@@ -53,7 +53,9 @@
 > - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
 
 <mark>`<eixo X: distribuição dos jogos pelo preço
+
 eixo Y: distribuição dos jogos por número médio de horas jogadas
+
 Cores: faturamento estimado considerando o número de vendas x preço para jogos pagos em jogos não gratuitos, e número de vendas x número médio de horas x $0.03 (valor estimado de arrecadação por hora em jogos free-to-play) em jogos grátis.
 Em suma, quanto mais próximo do vermelho escuro está um quadrado, maior a areecadação estimada dos jogos daquela faixa de preço com aquele tempo médio de jogo>`</mark>
 
