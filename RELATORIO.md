@@ -17,7 +17,7 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data>`</mark>
+1. **Dataset 1**: <mark>`[](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data)`</mark>
     * **Descrição curta**: <mark>`Conjunto de dados de jogos da Steam. Alguns dos campos são número de vendas, data de lançamento, tempo médio por usuário, gênero do jogo entre outros.`</mark>
 
 
